@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SanjaySRocks
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me sanjaysinghg2u@gmail.com
+- 👋 Hi, I’m Sanjay Singh
+- 👀 I’m a backend developer
+- 🌱 I’m currently learning everything..
+- 💞️ I’m looking to contribute to projects...
+- 📫 How to reach me sanjaysinghg2u@gmail.com. Available for freelance.
 
 <!---
 SanjaySRocks/SanjaySRocks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
