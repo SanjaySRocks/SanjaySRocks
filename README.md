@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanjay Singh
 - 👀 I’m a backend developer
-- 🌱 I’m currently learning everything..
+- 🌱 I’m currently solving real world problems..
 - 💞️ I’m looking to contribute to projects...
 - 📫 How to reach me sanjaysinghg2u@gmail.com. Available for freelance.
 
