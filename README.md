@@ -20,9 +20,7 @@
 - 💞️ I’m looking to contribute to projects...
 - 📫 How to reach me sanjaysinghg2u@gmail.com. Available for freelance.
 
-<!---
 ![](https://komarev.com/ghpvc/?username=sanjaysrocks&style=for-the-badge)
---->
 
 <!---
 ![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjaysrocks&theme=aura_dark&show_icons=true)
