@@ -13,7 +13,7 @@ if response.status_code == 200:
     print(f"Total problems solved: {total_problems_solved}")
 
     # Read README.md file
-    with open('./data/README.md', 'r', encoding="utf8") as file:
+    with open('README.md', 'r', encoding="utf8") as file:
         readme_content = file.read()
 
     # Define start and end markers
@@ -33,7 +33,7 @@ if response.status_code == 200:
         updated_content = f"{content_before}\nTotal problems solved: {total_problems_solved}\n{content_after}"
 
         # Write updated content back to README.md
-        with open('data/README.md', 'w', encoding='utf-8') as file:
+        with open('README.md', 'w', encoding='utf-8') as file:
             file.write(updated_content)
 
         print("README.md updated successfully.")
