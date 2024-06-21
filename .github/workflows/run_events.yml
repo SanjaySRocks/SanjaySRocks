@@ -28,8 +28,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests  # If you have any dependencies
 
-      - name: Run Python script
+      - name: Run Geeksforgeeks Python script
         run: python ./script/gfg.py
+
+      - name: Run leetcode Python script
+        run: python ./script/leetcode.py
 
       - name: Commit and push changes
         run: |
