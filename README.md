@@ -40,8 +40,8 @@ You can click the Preview link to take a look at your changes.
 <div style="display: inline-block;">
   
   <!-- LEETCODE_DATA_START -->
-  <img src="https://img.shields.io/badge/LeetCode-0/0-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <!-- LEETCODE_DATA_END -->
+ <img src="https://img.shields.io/badge/LeetCode-93/3189-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> 
+<!-- LEETCODE_DATA_END -->
 
   <!-- GFG_DATA_START -->
  <img src="https://img.shields.io/badge/GeeksforGeeks-22/1055-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /> 
