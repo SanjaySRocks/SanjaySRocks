@@ -35,5 +35,5 @@ You can click the Preview link to take a look at your changes.
 
 
 <!-- GFG_DATA_START -->
-Total problems solved: 22
+Total problems solved: 44
 <!-- GFG_DATA_END -->
