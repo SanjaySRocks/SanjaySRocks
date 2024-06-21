@@ -27,4 +27,4 @@ jobs:
           pip install requests  # If you have any dependencies
 
       - name: Run Python script
-        run: python /script/gfg.py
+        run: python ./script/gfg.py
