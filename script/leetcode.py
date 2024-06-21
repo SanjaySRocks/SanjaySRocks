@@ -32,7 +32,8 @@ if response.status_code == 200:
         content_after = readme_content[end_pos:]
 
         # Generate updated content
-        updated_content = f"{content_before}\n <img src=\"https://img.shields.io/badge/LeetCode-{total_problems_solved}/{total_problems_count}-FFA116?style=for-the-badge&logo=leetcode&logoColor=white\" /> \n{content_after}"
+        # updated_content = f"{content_before}\n <img src=\"https://img.shields.io/badge/LeetCode-{total_problems_solved}/{total_problems_count}-FFA116?style=for-the-badge&logo=leetcode&logoColor=white\" /> \n{content_after}"
+        updated_content = f"{content_before}\n <img src=\"https://img.shields.io/badge/LeetCode-N/A-FFA116?style=for-the-badge&logo=leetcode&logoColor=white\" /> \n{content_after}"
 
         # Write updated content back to README.md
         with open('README.md', 'w', encoding='utf-8') as file:
