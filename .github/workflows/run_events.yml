@@ -28,3 +28,11 @@ jobs:
 
       - name: Run Python script
         run: python ./script/gfg.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add README.md
+          git commit -m "Update README with GFG data"
+          git push
