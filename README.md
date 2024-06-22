@@ -11,6 +11,7 @@
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 --->
+
 <h1 align="center">Hi 👋, I'm Sanjay Singh</h1>
 <h3 align="center">Empowering experiences from the server's core to your screen's edge</h3>
 
@@ -18,7 +19,7 @@
 
 - 👀 I’m a backend developer
 - 🌱 I’m currently learning <strong>nextjs</strong>
-- 💞️ I’m looking to contribute to projects...
+- 💞️ I’m looking to contribute to open source projects...
 - 📫 How to reach me sanjaysinghg2u@gmail.com. Available for freelance.
 
 ![](https://komarev.com/ghpvc/?username=sanjaysrocks&style=for-the-badge)
