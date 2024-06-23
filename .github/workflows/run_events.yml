@@ -30,8 +30,10 @@ jobs:
         id: run_leetcode
         run: python ./script/leetcode.py
 
+      - name: check readme content
+        run: cat README.md
+        
       - name: Commit and push changes
-        if: ${{ steps.run_leetcode.outcome == 'success' }}
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
