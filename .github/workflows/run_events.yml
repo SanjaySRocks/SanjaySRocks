@@ -27,9 +27,11 @@ jobs:
         run: python ./script/gfg.py
 
       - name: Run leetcode Python script
+        id: run_leetcode
         run: python ./script/leetcode.py
 
       - name: Commit and push changes
+        if: ${{ steps.run_leetcode.outcome == 'success' }}
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
