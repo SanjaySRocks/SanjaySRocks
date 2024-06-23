@@ -27,7 +27,6 @@ jobs:
         run: python ./script/gfg.py
 
       - name: Run leetcode Python script
-        id: run_leetcode
         run: python ./script/leetcode.py
 
       - name: check readme content
