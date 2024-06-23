@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-**DSA Analytics**
+### DSA Analytics
 
 <div style="display: inline-block;">
   
@@ -57,3 +57,13 @@ You can click the Preview link to take a look at your changes.
   <!-- CODECHEF_DATA_END -->
   
 </div>
+
+<br>
+
+<!---
+### Github Analytics
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjaysrocks&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Sanjay's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaysrocks&layout=compact&theme=dracula&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+--->
