@@ -31,8 +31,14 @@ jobs:
 
       - name: check readme content
         run: cat README.md
-        
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git status --porcelain | grep . && echo "Changes found" || echo "No changes"
+          
       - name: Commit and push changes
+        if: steps.check_changes.outputs.stdout == 'Changes found'
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
