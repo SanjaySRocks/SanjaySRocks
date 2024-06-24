@@ -48,7 +48,7 @@ def get_solved_problem_count(handle):
 
 def updateReadme(solved_count, total_problem_count):
     # Read README.md file
-    with open('./data/README.md', 'r', encoding="utf8") as file:
+    with open('README.md', 'r', encoding="utf8") as file:
         readme_content = file.read()
 
     # Define start and end markers
@@ -68,7 +68,7 @@ def updateReadme(solved_count, total_problem_count):
         updated_content = f"{content_before}\n<img src=\"https://img.shields.io/badge/Codeforces-{solved_count}/{total_problem_count}-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white\" />\n{content_after}"
 
         # Write updated content back to README.md
-        with open('./data/README.md', 'w', encoding='utf-8') as file:
+        with open('README.md', 'w', encoding='utf-8') as file:
             file.write(updated_content)
 
         print("README.md updated successfully.")
