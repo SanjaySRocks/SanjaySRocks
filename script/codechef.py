@@ -2,6 +2,36 @@ import requests
 from bs4 import BeautifulSoup
 import re
 
+def updateReadme(solved_count):
+    # Read README.md file
+    with open('README.md', 'r', encoding="utf8") as file:
+        readme_content = file.read()
+
+    # Define start and end markers
+    start_marker = '<!-- CODECHEF_DATA_START -->'
+    end_marker = '<!-- CODECHEF_DATA_END -->'
+
+    # Find the position of start and end markers
+    start_pos = readme_content.find(start_marker)
+    end_pos = readme_content.find(end_marker)
+
+    if start_pos != -1 and end_pos != -1:
+        # Calculate the content between markers
+        content_before = readme_content[:start_pos + len(start_marker)]
+        content_after = readme_content[end_pos:]
+
+        # Generate updated content
+        updated_content = f"{content_before}\n<img src="https://img.shields.io/badge/CodeChef-{solved_count}-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />\n{content_after}"
+
+        # Write updated content back to README.md
+        with open('README.md', 'w', encoding='utf-8') as file:
+            file.write(updated_content)
+
+        print("README.md updated successfully.")
+    else:
+        print("Start or end marker not found in README.md.")
+
+
 def fetch_codechef_solved_problems(username):
     # URL of the user's profile page
     url = f"https://www.codechef.com/users/{username}"
@@ -34,6 +64,7 @@ def fetch_codechef_solved_problems(username):
 username = "sanjaysrocks"
 total_solved = fetch_codechef_solved_problems(username)
 if total_solved is not None:
-    print(f"Total Problems Solved by {username}: {total_solved}")
+    print(f"[CodeChef] Total Problems Solved by {username}: {total_solved}")
+    updateReadme(total_solved)
 else:
     print("Could not retrieve the total number of solved problems.")
