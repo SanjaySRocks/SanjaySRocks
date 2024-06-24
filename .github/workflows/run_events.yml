@@ -21,13 +21,19 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests  # If you have any dependencies
+          pip install requests beautifulsoup4 # If you have any dependencies
 
       - name: Run Geeksforgeeks Python script
         run: python ./script/gfg.py
 
       - name: Run leetcode Python script
         run: python ./script/leetcode.py
+
+      - name: Run Codeforce Script
+        run: python ./script/codeforce.py
+
+      - name: Run CodeChef Script
+        run: python ./script/codechef.py
 
       - name: check readme content
         run: cat README.md
