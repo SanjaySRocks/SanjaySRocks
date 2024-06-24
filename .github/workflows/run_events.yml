@@ -35,11 +35,11 @@ jobs:
       - name: Check for changes
         id: check_changes
         run: |
-          git status --porcelain | grep . && echo "Changes found" || echo "No changes"
-          echo "${{ steps.check_changes.outputs.stdout }}"
+          git status --porcelain
+        continue-on-error: true
           
       - name: Commit and push changes
-        if: steps.check_changes.outputs.stdout == 'Changes found'
+        if: ${{ steps.check_changes.outputs.stdout != '' }}
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
