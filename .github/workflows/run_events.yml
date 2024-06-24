@@ -36,6 +36,7 @@ jobs:
         id: check_changes
         run: |
           git status --porcelain | grep . && echo "Changes found" || echo "No changes"
+          echo "${{ steps.check_changes.outputs.stdout }}"
           
       - name: Commit and push changes
         if: steps.check_changes.outputs.stdout == 'Changes found'
