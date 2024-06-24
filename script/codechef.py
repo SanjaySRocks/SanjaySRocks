@@ -21,7 +21,7 @@ def updateReadme(solved_count):
         content_after = readme_content[end_pos:]
 
         # Generate updated content
-        updated_content = f"{content_before}\n<img src="https://img.shields.io/badge/CodeChef-{solved_count}-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />\n{content_after}"
+        updated_content = f"{content_before}\n<img src=\"https://img.shields.io/badge/CodeChef-{solved_count}-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white\" />\n{content_after}"
 
         # Write updated content back to README.md
         with open('README.md', 'w', encoding='utf-8') as file:
