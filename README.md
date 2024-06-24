@@ -49,12 +49,12 @@ You can click the Preview link to take a look at your changes.
 <!-- GFG_DATA_END -->
 
   <!-- CODEFORCE_DATA_START -->
-  <img src="https://img.shields.io/badge/Codeforces-0/0-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
-  <!-- CODEFORCE_DATA_END -->
+<img src="https://img.shields.io/badge/Codeforces-4/9614-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
+<!-- CODEFORCE_DATA_END -->
 
   <!-- CODECHEF_DATA_START -->
-  <img src="https://img.shields.io/badge/CodeChef-0/0-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
-  <!-- CODECHEF_DATA_END -->
+<img src="https://img.shields.io/badge/CodeChef-19-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
+<!-- CODECHEF_DATA_END -->
   
 </div>
 
