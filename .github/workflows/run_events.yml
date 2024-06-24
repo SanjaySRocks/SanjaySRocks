@@ -39,4 +39,4 @@ jobs:
           git add README.md
           git commit -m "Update README with badges data"
           git push
-
+        continue-on-error: true
