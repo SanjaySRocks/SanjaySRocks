@@ -31,18 +31,12 @@ jobs:
 
       - name: check readme content
         run: cat README.md
-
-      - name: Check for changes
-        id: check_changes
-        run: |
-          git status --porcelain
-        continue-on-error: true
           
       - name: Commit and push changes
-        if: ${{ steps.check_changes.outputs.stdout != '' }}
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git add README.md
           git commit -m "Update README with badges data"
           git push
+
