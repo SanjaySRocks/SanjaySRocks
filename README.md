@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 <!-- LEETCODE_DATA_END -->
 
   <!-- GFG_DATA_START -->
- <img src="https://img.shields.io/badge/GeeksforGeeks-29/1061-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/GeeksforGeeks-29/1062-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /> 
 <!-- GFG_DATA_END -->
 
   <!-- CODEFORCE_DATA_START -->
