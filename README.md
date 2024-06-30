@@ -61,10 +61,16 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 
-
+<div align="center">
+  
 ### Github Analytics
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjaysrocks&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Sanjay's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaysrocks&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+
+  
+![sanjaysrocks's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjaysrocks&theme=dark&hide_border=true)
+
+</div>
 
