@@ -47,7 +47,7 @@
 
 
   
-![sanjaysrocks's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjaysrocks&theme=dark&hide_border=true)
+![sanjaysrocks's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjaysrocks&theme=buefy&hide_border=true)
 
 </div>
 
