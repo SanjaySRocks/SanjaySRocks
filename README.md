@@ -18,15 +18,15 @@
 <div style="display: inline-block;">
   
   <!-- LEETCODE_DATA_START -->
- <img src="https://img.shields.io/badge/LeetCode-106/3205-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/LeetCode-107/3205-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> 
 <!-- LEETCODE_DATA_END -->
 
   <!-- GFG_DATA_START -->
- <img src="https://img.shields.io/badge/GeeksforGeeks-35/1068-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/GeeksforGeeks-36/1068-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /> 
 <!-- GFG_DATA_END -->
 
   <!-- CODEFORCE_DATA_START -->
-<img src="https://img.shields.io/badge/Codeforces-14/9636-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/Codeforces-15/9636-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
 <!-- CODEFORCE_DATA_END -->
 
   <!-- CODECHEF_DATA_START -->
