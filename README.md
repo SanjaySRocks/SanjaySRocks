@@ -22,7 +22,7 @@
 <!-- LEETCODE_DATA_END -->
 
   <!-- GFG_DATA_START -->
- <img src="https://img.shields.io/badge/GeeksforGeeks-40/1072-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/GeeksforGeeks-40/1073-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /> 
 <!-- GFG_DATA_END -->
 
   <!-- CODEFORCE_DATA_START -->
