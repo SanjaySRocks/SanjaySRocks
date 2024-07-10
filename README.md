@@ -35,10 +35,7 @@
   
 </div>
 
-<div>
-  <img alt="sanjaysrocks" height="100px" width="100px" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif">
-  <img alt="sanjaysrocks" height="100px" width="100px" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif">
-</div>
+
 
 <br>
 
