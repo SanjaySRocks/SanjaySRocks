@@ -11,7 +11,8 @@ if response.status_code == 200:
     data = response.json()
     total_problems_solved = data['total_problems_solved']
     total_problems_count = data['pod_solved_global_longest_streak']
-    
+
+    print(data)
     print(f"Total problems solved: {total_problems_solved}")
 
     # Read README.md file
