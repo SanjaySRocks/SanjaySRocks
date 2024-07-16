@@ -1,7 +1,7 @@
 import requests
 
 # URL for fetching data
-url = "https://authapi.geeksforgeeks.org/api-get/user-profile-info/?handle=sanjaysinghg2u&article_count=false"
+url = "https://geeks-for-geeks-api.vercel.app/sanjaysinghg2u"
 
 # Make the GET request
 response = requests.get(url)
@@ -9,8 +9,8 @@ response = requests.get(url)
 # Check if the request was successful
 if response.status_code == 200:
     data = response.json()
-    total_problems_solved = data['total_problems_solved']
-    total_problems_count = data['pod_solved_global_longest_streak']
+    total_problems_solved = data['info']['totalProblemsSolved']
+    total_problems_count = data['info']['maxStreak']
 
     print(data)
     print(f"Total problems solved: {total_problems_solved}")
