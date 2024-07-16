@@ -12,7 +12,6 @@ if response.status_code == 200:
     total_problems_solved = data['info']['totalProblemsSolved']
     total_problems_count = data['info']['maxStreak']
 
-    print(data)
     print(f"Total problems solved: {total_problems_solved}")
 
     # Read README.md file
