@@ -18,7 +18,7 @@
 <div style="display: inline-block;">
   
   <!-- LEETCODE_DATA_START -->
- <img src="https://img.shields.io/badge/LeetCode-123/3225-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/LeetCode-123/3229-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> 
 <!-- LEETCODE_DATA_END -->
 
   <!-- GFG_DATA_START -->
