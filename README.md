@@ -22,11 +22,11 @@
 <!-- LEETCODE_DATA_END -->
 
   <!-- GFG_DATA_START -->
- <img src="https://img.shields.io/badge/GeeksforGeeks-58/1091-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/GeeksforGeeks-58/1092-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /> 
 <!-- GFG_DATA_END -->
 
   <!-- CODEFORCE_DATA_START -->
-<img src="https://img.shields.io/badge/Codeforces--1/-1-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/Codeforces-33/9694-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
 <!-- CODEFORCE_DATA_END -->
 
   <!-- CODECHEF_DATA_START -->
