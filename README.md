@@ -13,7 +13,7 @@
 
 <br>
 
-### DSA Analytics
+### DSA Analytics (Total Solved Problems)
 
 <div style="display: inline-block;">
   
