@@ -65,7 +65,7 @@ def updateReadme(solved_count, total_problem_count):
         content_after = readme_content[end_pos:]
 
         # Generate updated content
-        updated_content = f"{content_before}\n<img src=\"https://img.shields.io/badge/Codeforces-{solved_count}/{total_problem_count}-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white\" />\n{content_after}"
+        updated_content = f"{content_before}\n<img src=\"https://img.shields.io/badge/Codeforces-{solved_count}-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white\" />\n{content_after}"
 
         # Write updated content back to README.md
         with open('README.md', 'w', encoding='utf-8') as file:
