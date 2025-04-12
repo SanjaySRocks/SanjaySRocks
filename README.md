@@ -4,7 +4,7 @@
 ## About Me
 
 - 👀 I’m a backend developer
-- 🌱 I’m currently exploring <strong>k8s</strong>
+- 🌱 I’m currently exploring <strong>Azure</strong>
 - 💞️ I’m looking to contribute to open source projects...
 - 📫 Available for freelance.
 
