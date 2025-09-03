@@ -18,7 +18,7 @@
 <div style="display: inline-block;">
   
   <!-- LEETCODE_DATA_START -->
- <img src="https://img.shields.io/badge/LeetCode-291-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/LeetCode-0-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> 
 <!-- LEETCODE_DATA_END -->
 
   <!-- GFG_DATA_START -->
@@ -26,7 +26,7 @@
 <!-- GFG_DATA_END -->
 
   <!-- CODEFORCE_DATA_START -->
-<img src="https://img.shields.io/badge/Codeforces-33-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/Codeforces--1-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
 <!-- CODEFORCE_DATA_END -->
 
   <!-- CODECHEF_DATA_START -->
