@@ -3,10 +3,10 @@
 
 ## About Me
 
-- 👀 I’m a backend developer
-- 🌱 I’m currently exploring <strong>Azure</strong>
+- 👀 I’m a DevOps Engineer
+- 🌱 I’m currently exploring <strong>Kubernetes</strong>
 - 💞️ I’m looking to contribute to open source projects...
-- 📫 Available for freelance.
+- 📫 Available for Work.
 
 ![](https://komarev.com/ghpvc/?username=sanjaysrocks&style=for-the-badge)
 
